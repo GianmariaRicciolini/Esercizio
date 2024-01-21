@@ -1,0 +1,154 @@
+/* GENERAL */
+body {
+  font-size: 1.2rem;
+  color: #393d41;
+  line-height: 1.65;
+  font-family: "Open Sans", sans-serif;
+  text-align: center;
+  box-sizing: border-box;
+}
+img {
+  height: auto;
+  max-width: 100%;
+}
+
+h1 {
+  font-family: "Montserrat", sans-serif;
+  font-weight: bold;
+  color: #25a2c3;
+  line-height: 1em;
+  font-size: 2rem;
+}
+h4 {
+  font-family: "Montserrat", sans-serif;
+  font-weight: bold;
+  color: #25a2c3;
+  line-height: 1.5;
+}
+/* HEADER */
+.logo {
+  background-color: black;
+  padding: 1.5em;
+}
+
+.logo img {
+  width: 120px;
+}
+header section {
+  background-image: url(../images/banner.jpg);
+  background-size: cover;
+  padding: 2em;
+}
+header p {
+  padding: 1em;
+  padding-bottom: 2em;
+  font-size: 1rem;
+}
+button {
+  background-color: #f04c2f;
+  color: white;
+  border-style: hidden;
+  font-family: "Montserrat", sans-serif;
+  font-weight: bold;
+  padding: 0.8em 2em 0.8em 2em;
+  border-radius: 5px;
+  cursor: pointer;
+}
+/* MAIN */
+
+/* CAREER */
+.career {
+  padding: 2em;
+  text-align: left;
+}
+.career div {
+  padding-top: 1em;
+}
+.career h4 {
+  padding-bottom: 0.5em;
+}
+.circle {
+  vertical-align: middle;
+}
+.notebook {
+  border-radius: 50%;
+  float: left;
+  width: 250px;
+}
+.container {
+  vertical-align: middle;
+}
+/* TESTIMONIANZE */
+.Testimonianze {
+  background-color: #e22d0e;
+  color: white;
+  padding: 1em 1em 2em 1em;
+}
+.Testimonianze h4 {
+  color: white;
+  font-size: 1.85rem;
+  padding-top: 1em;
+}
+.Testimonianze div {
+  line-height: 1.5rem;
+  padding-top: 1.5em;
+}
+.Testimonianze div span {
+  font-size: 0.8rem;
+}
+.Italic {
+  font-style: italic;
+  font-size: 1rem;
+  padding-top: 1.5em;
+}
+
+/* BOX */
+.box {
+  padding: 1em 0em 2em 0em;
+}
+.box div {
+  border-style: solid;
+  border-width: 1px;
+  border-color: #dee1e3;
+  margin: 1em;
+  margin-top: 2em;
+}
+.box h4 {
+  padding: 0.5em;
+}
+.box p {
+  padding: 0em 0.5em 2em 0.5em;
+  font-size: 1rem;
+}
+/* FOOTER */
+footer {
+  background-color: #25a2c3;
+  color: white;
+  padding: 2em 2em 4em 2em;
+}
+.info {
+  font-size: 1rem;
+  padding: 1em 0em 1em 0em;
+}
+footer h4 {
+  color: white;
+  font-size: 1.85rem;
+}
+footer a {
+  color: #c8e7f0;
+}
+.a {
+  color: #c8e7f0;
+}
+
+.empty {
+  border-top-style: solid;
+  border-color: white;
+  border-width: 1px;
+  margin: 0em 4em 0em 4em;
+  padding-bottom: 1em;
+}
+
+.end {
+  font-size: 0.8rem;
+}
